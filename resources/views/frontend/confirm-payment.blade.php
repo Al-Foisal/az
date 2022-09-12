@@ -28,7 +28,7 @@
 
     <!-- Include the PayPal JavaScript SDK -->
     <script
-        src="https://www.paypal.com/sdk/js?client-id=AYTtAElPuPN1b01nTFo3_-_O5jIYm62Yn3IcDN99RZHejty58alRjO39d8GDKcFwRXxVGWfKpGtmt8YH&currency=USD">
+        src="https://www.paypal.com/sdk/js?client-id=Aa4zsGpF5NpEHSvLaGD2etRhNBvLMpf_2P6wcsdt_n-XzMzOPhoL-EpJXtTF5nBxKZi2i_o87_D3ezuI&currency=USD">
     </script>
 
     <script>
